@@ -10,8 +10,9 @@ I'm a passionate full-stack and systems developer who enjoys building everything
 - ⚛️ React / Redux
 - 💡 TypeScript / JavaScript
 - 🚀 Next.js
-- 🏗️ Firebase SDK
+- 🏗️ Firebase SDK (Auth, Firestore, Hosting)
 - 🧩 Ant Design (ANTD)
+- 🔐 Secure API integration (OpenAI, RESTful APIs)
 
 ### ⚙️ Systems & Backend
 - 🧵 C (Low-level development)
@@ -22,10 +23,15 @@ I'm a passionate full-stack and systems developer who enjoys building everything
 
 ## 🛠 Projects I Enjoyed
 
-- 🐚 **MiniShell** – custom Unix shell built in C
-- 🌌 **MiniRT** – a basic raytracer with 3D scene rendering
+- 🐚 **MiniShell** – Custom Unix shell built in C
+- 🌌 **MiniRT** – A basic raytracer with 3D scene rendering
 - 🔁 **Execution Server** – TCP server executing shell commands remotely
-- 🌐 **Full-Stack Web Apps** – using Next.js + Firebase or custom backend
+- 🌐 **Full-Stack Firebase App** –  
+  A collaborative project using:
+  - **React + Redux + Ant Design** for UI and state management  
+  - **Firebase SDK** for authentication, Firestore DB, and hosting  
+  - 🔐 **OpenAI Chat Integration** with secure API key handling  
+  - Teamwork included feature planning, CI/CD deployment, and production readiness
 
 ---
 
@@ -41,8 +47,6 @@ I'm a passionate full-stack and systems developer who enjoys building everything
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 </p>
 
 ---
@@ -51,6 +55,7 @@ I'm a passionate full-stack and systems developer who enjoys building everything
 - Diving deep into how things work under the hood
 - Blending backend logic with intuitive frontends
 - Writing clean, low-level code and understanding memory, concurrency, and networking
+- Collaborating on real-world products with teams
 
 ---
 
