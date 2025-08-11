@@ -23,15 +23,27 @@ I'm a passionate full-stack and systems developer who enjoys building everything
 
 ## 🛠 Projects I Enjoyed
 
-- 🐚 **MiniShell** – Custom Unix shell built in C
-- 🌌 **MiniRT** – A basic raytracer with 3D scene rendering
-- 🔁 **Execution Server** – TCP server executing shell commands remotely
-- 🌐 **Full-Stack Firebase App** –  
-  A collaborative project using:
-  - **React + Redux + Ant Design** for UI and state management  
-  - **Firebase SDK** for authentication, Firestore DB, and hosting  
-  - 🔐 **OpenAI Chat Integration** with secure API key handling  
-  - Teamwork included feature planning, CI/CD deployment, and production readiness
+🐚 MiniShell – Custom Unix shell built in C
+
+🌌 MiniRT – A basic raytracer with 3D scene rendering
+
+🔁 Execution Server – TCP server executing shell commands remotely
+
+🌐 Full-Stack Firebase App –
+
+React + Redux + Ant Design for UI and state management
+
+Firebase SDK for authentication, Firestore DB, and hosting
+
+🔐 OpenAI Chat Integration with secure API key handling
+
+Teamwork included feature planning, CI/CD deployment, and production readiness
+
+🌀 Maze Generator & Solver – our defined size Randomly maze generation and pathfinding algorithms
+
+📡 Sinusoidal Encoder/Decoder – Custom algorithm for encoding signals into image and decoding the image to get signals
+
+📊 Vector-Based Database – database engine using vector data types for optimized spatial queries
 
 ---
 
